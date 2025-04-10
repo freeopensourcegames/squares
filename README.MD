@@ -24,7 +24,11 @@ Click on any empty square on the board to place your mark. Ensure strategic plac
 - The `checkSquare` function verifies potential squares around the most recently placed mark and calculates their scores.
 - The `checkForSquare` function iterates through all possible square formations around the current mark and sums the points returned from `checkSquare`.
 
-## Installation and Setup
+## Play the game online
+
+You can play the Squares Game [**here**](https://freeopensourcegames.github.io/squares/index.html).
+
+## Installation and Setup locally
 
 1. Clone this repository to your local machine:
    ```bash
