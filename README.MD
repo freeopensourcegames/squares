@@ -28,7 +28,7 @@ Click on any empty square on the board to place your mark. Ensure strategic plac
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/squares-game.git
+   git clone https://github.com/freeopensourcegames/squares.git
    ```
 2. Open the `index.html` file in a web browser to start playing.
 
